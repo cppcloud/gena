@@ -52,9 +52,9 @@ content:
         - name: 423Down
           description: 破解版软件下载
           url: https://www.423down.com/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
+        - name: 书城
+          description: 双语书城
+          url: https://book.cplusplus.club/
         - name: 花瓣
           description: 收集灵感,保存有用的素材
           url: http://huaban.com/
